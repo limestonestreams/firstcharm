@@ -1,2 +1,5 @@
 # firstcharm
-first python 
+first python project to demo
+
+
+

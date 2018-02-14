@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-    #third comment
-#different comment o.o
-#comment here
+   #no longer need comments
     print(msg)
 
 main('Hello second world')
